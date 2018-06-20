@@ -1,6 +1,6 @@
 # Material Theme (Dark) for Notepad++
 
-![Material Theme Dark for Notepad++](https://raw.githubusercontent.com/naderi/material-theme-for-npp-loglang/master/material_theme_npp_screenshot.png)
+![Material Theme Dark for Notepad++](https://raw.githubusercontent.com/Sal0hc1n/material-theme-for-npp-loglang/master/material_theme_npp_screenshot.png)
 
 ## Requirements:
   * This style is based on Monaco font (https://github.com/todylu/monaco.ttf).
@@ -12,7 +12,7 @@ Copy the Material-Dark.xml file to "%APPDATA%\Notepad++\themes" and in a portabl
 Or simply import it to Notepad++ by going to Menu -> Settings -> Import -> Import Style theme(s) option.
 
 # LOGlang
-![LOGlang](https://raw.githubusercontent.com/naderi/material-theme-for-npp-loglang/master/LogLang.png)
+![LOGlang](https://raw.githubusercontent.com/Sal0hc1n/material-theme-for-npp-loglang/master/LOGlang.png)
 
     Download [this](https://github.com/Sal0hc1n/material-theme-for-npp-loglang/blob/master/LogLang.xml) XML file
     Import the file: Language → Define your language... → Import
